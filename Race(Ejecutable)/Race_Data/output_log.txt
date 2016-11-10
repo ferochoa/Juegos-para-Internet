@@ -18,17 +18,17 @@ Platform assembly: D:\Mis Documentos\Fer\Facultad\Juegos Para Internet\Race(Ejec
 Loading D:\Mis Documentos\Fer\Facultad\Juegos Para Internet\Race(Ejecutable)\Race_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
 Platform assembly: D:\Mis Documentos\Fer\Facultad\Juegos Para Internet\Race(Ejecutable)\Race_Data\Managed\Photon3Unity3D.dll (this message is harmless)
 Loading D:\Mis Documentos\Fer\Facultad\Juegos Para Internet\Race(Ejecutable)\Race_Data\Managed\Photon3Unity3D.dll into Unity Child Domain
-- Completed reload, in  0.062 seconds
+- Completed reload, in  0.075 seconds
 Platform assembly: D:\Mis Documentos\Fer\Facultad\Juegos Para Internet\Race(Ejecutable)\Race_Data\Managed\System.Core.dll (this message is harmless)
 Platform assembly: D:\Mis Documentos\Fer\Facultad\Juegos Para Internet\Race(Ejecutable)\Race_Data\Managed\System.dll (this message is harmless)
 desktop: 1360x768 60Hz; virtual: 2726x768 at 0,0
 <RI> Initializing input.
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 1.221604 ms
+UnloadTime: 0.991298 ms
 SwitchToProtocol: Udp PhotonNetwork.connected: False
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
 
 Setting up 1 worker threads for Enlighten.
-  Thread -> id: 1838 -> priority: 1 
+  Thread -> id: 1484 -> priority: 1 

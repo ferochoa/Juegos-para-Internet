@@ -2,17 +2,8 @@
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Network\NetworkPlayer.cs">
     <Files>
-      <File FileName="Assets\Scripts\Network\NetworkPlayer.cs" Line="8" Column="2" />
       <File FileName="Assets\Scripts\Network\NetworkManager.cs" Line="23" Column="21" />
-      <File FileName="Assets\Scripts\CarController.cs" Line="366" Column="1" />
-      <File FileName="Assets\Scripts\CarUserControl.cs" Line="31" Column="6" />
-      <File FileName="Assets\Scripts\CarAudio.cs" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\BrakeLight.cs" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\CarSelfRighting.cs" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\Mudguard.cs" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\SkidTrail.cs" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\Suspension.cs" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\WheelEffects.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Network\NetworkPlayer.cs" Line="27" Column="4" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
