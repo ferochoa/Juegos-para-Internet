@@ -1,11 +1,11 @@
-Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2008
-
-Project("{8D61DFC8-4D3F-0CB6-8218-F0A5DF3901CB}") = "Juegos_para_Internet", "Assembly-CSharp-firstpass.csproj", "{5887ED31-FF61-513A-EFE4-E4961DC40D60}"
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Juegos_para_Internet.CSharp.Plugins", "Juegos_para_Internet.CSharp.Plugins.csproj", "{37F3EBB6-FE21-DEF2-7D03-C0BF84213358}"
 EndProject
-Project("{8D61DFC8-4D3F-0CB6-8218-F0A5DF3901CB}") = "Juegos_para_Internet", "Assembly-CSharp.csproj", "{FD6FFA37-10F8-B90A-E862-2095C048B34D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Juegos_para_Internet.CSharp", "Juegos_para_Internet.CSharp.csproj", "{47F09D65-AA2A-7C64-32D7-A0776F7AFB08}"
 EndProject
-Project("{8D61DFC8-4D3F-0CB6-8218-F0A5DF3901CB}") = "Juegos_para_Internet", "Assembly-CSharp-Editor.csproj", "{A198E080-F9B1-D74B-80F1-06A3EBED9DB2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Juegos_para_Internet.CSharp.Editor", "Juegos_para_Internet.CSharp.Editor.csproj", "{058C561C-F068-7653-1C09-9A4621ACF984}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,23 +13,20 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{5887ED31-FF61-513A-EFE4-E4961DC40D60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{5887ED31-FF61-513A-EFE4-E4961DC40D60}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{5887ED31-FF61-513A-EFE4-E4961DC40D60}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{5887ED31-FF61-513A-EFE4-E4961DC40D60}.Release|Any CPU.Build.0 = Release|Any CPU
-		{FD6FFA37-10F8-B90A-E862-2095C048B34D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{FD6FFA37-10F8-B90A-E862-2095C048B34D}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{FD6FFA37-10F8-B90A-E862-2095C048B34D}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{FD6FFA37-10F8-B90A-E862-2095C048B34D}.Release|Any CPU.Build.0 = Release|Any CPU
-		{A198E080-F9B1-D74B-80F1-06A3EBED9DB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{A198E080-F9B1-D74B-80F1-06A3EBED9DB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{A198E080-F9B1-D74B-80F1-06A3EBED9DB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{A198E080-F9B1-D74B-80F1-06A3EBED9DB2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37F3EBB6-FE21-DEF2-7D03-C0BF84213358}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37F3EBB6-FE21-DEF2-7D03-C0BF84213358}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37F3EBB6-FE21-DEF2-7D03-C0BF84213358}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37F3EBB6-FE21-DEF2-7D03-C0BF84213358}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47F09D65-AA2A-7C64-32D7-A0776F7AFB08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47F09D65-AA2A-7C64-32D7-A0776F7AFB08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47F09D65-AA2A-7C64-32D7-A0776F7AFB08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47F09D65-AA2A-7C64-32D7-A0776F7AFB08}.Release|Any CPU.Build.0 = Release|Any CPU
+		{058C561C-F068-7653-1C09-9A4621ACF984}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{058C561C-F068-7653-1C09-9A4621ACF984}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{058C561C-F068-7653-1C09-9A4621ACF984}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{058C561C-F068-7653-1C09-9A4621ACF984}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
-	EndGlobalSection
-	GlobalSection(MonoDevelopProperties) = preSolution
-		StartupItem = Assembly-CSharp.csproj
 	EndGlobalSection
 EndGlobal
